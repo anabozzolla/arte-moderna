@@ -2,16 +2,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 
-
-
-
-
-
 body{
     background-image: url(../img/soror.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+header{
+    position: fixed;
+    right: 0;
+    top: 0;
+    background-color: rgba(255, 255, 255, 0.547);
+    padding-top: 30px;
+    margin: 0;
+    
+}
+
+header h1{
+    margin-bottom: 0;
 }
 
 h1{
@@ -20,6 +29,7 @@ h1{
     color: #40171A;
     text-align: right;
     margin-right: 60px;
+    margin-top: 20px;
 
 }
 
@@ -46,4 +56,21 @@ p{
     text-align: right;
     margin-left: 950px;
     margin-right: 30px;
+}
+
+#introducao{
+    padding-top: 150px;
+   
+}
+
+#rodape{
+    color: #40171A;
+}
+
+footer {
+    color: #5c4549;
+    text-align: right;
+    padding: 20px;
+    margin-top: 40px;
+    font-size: 14px;
 }
