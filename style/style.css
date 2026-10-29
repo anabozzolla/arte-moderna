@@ -1,0 +1,23 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&display=swap');
+
+
+
+
+body{
+    background-image: url(../img/soror.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-size: 60px;
+    font-family: 'Bonheur Royale';
+    color: #40171A;
+    text-align: right;
+    margin-right: 60px;
+
+}
