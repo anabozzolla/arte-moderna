@@ -39,14 +39,7 @@ h2{
     color: #8C8846;
     text-align: right;
     margin-right: 80px;
-}
 
-#semana{
-    font-family: 'Great Vibes';
-    font-size: 50px;
-    color: #8C8846;
-    text-align: right;
-    margin-right: 14px;
 }
 
 p{
@@ -65,10 +58,12 @@ p{
 
 #rodape{
     color: #40171A;
+    font-family: 'Bonheur Royale';
+    font-size: 30px;
+    font-weight: 200%;
 }
 
 footer {
-    color: #5c4549;
     text-align: right;
     padding: 20px;
     margin-top: 40px;
